@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_us_voter_data_7_states_2023_clean_declass_marked_redacted_506d61a75e25",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC US Voter Data 7 States 2023 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "506d61a75e258e2537bc06d369e8ecf97af68a61e581024bbc71fed3d8afe922",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 95.63636363636364
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

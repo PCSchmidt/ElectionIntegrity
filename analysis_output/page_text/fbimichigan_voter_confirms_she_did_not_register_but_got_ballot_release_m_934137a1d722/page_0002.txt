@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_voter_confirms_she_did_not_register_but_got_ballot_release_m_934137a1d722",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan Voter Confirms She Did Not Register But Got Ballot RELEASE MARKED.pdf",
+  "source_sha256": "934137a1d72245ceefad5d58d881d1972b0bc8b9c38e5c1a2eada7e1b1b04983",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 87.04587155963303
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 UNCLASSIFIED Title: U NTOC2020 343jaj02 Possible Election Fraud in Southfield, MI (DE) Re: 56-DE-0, 10/05/2021 and she has never voted in an election. Database Queries: An open source query of mvic.sos.state.mi.us revealed J as a registered voter (see attached). A Guardian query for AND P| revealed zero results. A Sentinel query for a _ revealed one restricted result in Cc lv (zero in Cc 1Vision). A DIVS query for pe with date of birth P| revealed zero results. Enclosure(s): Enclosed are the following items: 1. U Capturel.PNG 2. U Contents of Submission o¢ UNCLASSIFIED 2

@@ -1,0 +1,10 @@
+{
+  "document_id": "18_states_memo_clean_declass_mark_redacted_670b20867693",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\18 States Memo - clean - declass mark_Redacted.pdf",
+  "source_sha256": "670b2086769369ee037067abe60a6c5ed04b0ab95a283caddb662fe6f450278a",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 66.44
+}
+
+e polling place name and address. Ee RR $j Seer. contained iii” voter demographic Pll, which oo. a a the voter registration information could be Paes the identities of important U.S. i Ste BE A ccitionally, a voter registration data served adj ==. Ss opinion analysis on the u.s. General

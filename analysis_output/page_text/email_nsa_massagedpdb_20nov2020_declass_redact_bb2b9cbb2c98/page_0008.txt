@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_20nov2020_declass_redact_bb2b9cbb2c98",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_20NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "bb2b9cbb2c9833028ccf1b2f32d5d009203b60690b0fcb88bb34357014aec12e",
+  "page_number": 8,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+Dated: Declassify On: Classification: Classified By: Derived From: Dated: Declassify On: Classification: Classified By: Derived From: Dated: Declassify On: Classification: ================ ================ Classification: ================ ================ Classification: ================ ================ Classification: ================ ================ Classification:

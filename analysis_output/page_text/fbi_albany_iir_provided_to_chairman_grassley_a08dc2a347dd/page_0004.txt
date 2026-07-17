@@ -1,0 +1,10 @@
+{
+  "document_id": "fbi_albany_iir_provided_to_chairman_grassley_a08dc2a347dd",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\FBI_ALBANY_IIR_PROVIDED_TO_CHAIRMAN GRASSLEY .pdf",
+  "source_sha256": "a08dc2a347dd6d0b8e8c40ff5eb6204e08b2854c92acf8b2eb47309458048b7f",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 93.14189189189189
+}
+
+not being eligible to vote in the United States. China had collected private US user data from millions of TikTok accounts, to include name, ID and address, which would allow the Chinese government to use real US persons' information to create the fraudulent drivers license. The fraudulent drivers licenses were to include true ID number and true address of US citizens, making them difficult to detect. China planned to use the fraudulent drivers licenses to account for tens of thousands of mail-in votes. COMMENTS: de fF FBI COMMENTS: A persons address information was not a valid field when creating a TikTok account. It was unspecified how China would attain US address data from the application. D:, GE source is available for re-contact. INSTR: | Yes. Contact FBIHQ for additional details Please direct Requests for Information (RFIs) to time-sensitive, and include a date or time-frame required for a FBI-SJC-IIR-000004

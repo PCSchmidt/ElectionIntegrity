@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_2021_dont_want_to_close_memo_release_marked_bb7e982ddca3",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan 2021 Dont Want To Close Memo RELEASE MARKED.pdf",
+  "source_sha256": "bb7e982ddca3b8ef57f2bc1b416f49ad54cdc8aee7299baac8ac88980b107dc8",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 95.5
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 us. Would you be able to provide an undated letter regarding DOJ/PIN's view on concurrence/nonconcurrence? Please don't hesitate to call with any questions or if you need additional information. Thanks,

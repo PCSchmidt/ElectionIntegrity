@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 47.44206008583691
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 Daun ha spree ceive ew img en MOA ps: sae es a bint ee ait S| ele Se oe a eo etal ene Lien ere 5 Woe aie (RRS 0 a a tg 2S Sr ir ia kan eee aia ee pt nos RN tc a eh i SN is Sane a thse a aE ee GREET RE Se Rares EEE (GE) U.S. Voter, Election-Related Data Unspecified U.S. voter | 204,822,241 records 2016 Includes voters’ names data ') (45 GB) , ages, phone numbe rs, addresses, etc. A file, downloaded 7 | indicated his possible possession of this data as well. Named U.S. state 1 1,746,069 records 2017 Includes voter IDs, voter database ") full names, current addresses, previous addresses, birth dates , gender, and phone numbers. Poe ee Ne a ee eee ct perkates ace se ee ae Ser aie Ss he, Si eal ois eo ee aie eann Gama OES | Se a a A oy LAE NR aso et ee 2: ARR Aha ae Siena OT 5 6 VEST | URINE Ss Fe ae ik cam ee Bos AREY foe | FP ie eae ee Sela eee esis TN eadees vee ie des ie eee ee a eo ee ee Sie ea oe an, i: i Pade 3 DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

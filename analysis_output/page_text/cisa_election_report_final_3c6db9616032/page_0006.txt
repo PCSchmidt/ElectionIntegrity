@@ -1,0 +1,10 @@
+{
+  "document_id": "cisa_election_report_final_3c6db9616032",
+  "source_relative_path": "1. Vulnerabilities in Voting and Counting Systems\\CISA Election Report - FINAL.pdf",
+  "source_sha256": "3c6db961603260a77dce4548b7e5a7f5a6fd2b964345ab4a46eb1d3c61485c22",
+  "page_number": 6,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+6 ELECTION REPORT As of July 13, 2026 cisa.gov central@cisa.dhs.gov @CISAgov @CISACyber @cisagov 4. Conduct post-election manual audits of paper ballots to confirm that voting systems function as intended and to identify errors prior to certification of results. 5. Encourage election software providers to: a. Assign Common Vulnerabilities and Exposure (CVE) numbers for vulnerabilities in their software; b. Provide notice to customers if elections software source code is leaked or stolen; c. Report cybersecurity incidents to relevant authorities; and d. Include a software bill of materials (SBOM) with all products. 6. Ensure clear, consistent, and transparent documentation of all security incidents and remediation processes. Conclusion CISA’s findings highlight that U.S. election systems are subject to the same security concerns as most other software systems: they are subject to outdated and fragmented certification regimes, insufficient vulnerability transparency, and persistent cybersecurity gaps in SLTT operating environments. These issues are not attributable to any single entity but are the result of complex interdependencies between vendors, certifiers, policymakers, and resource constrained SLTT partners. Strengthening election-system security requires coordinated action across the entire ecosystem. SLTT election offices need sustained investment in network modernization, segmentation, identity management, and monitoring capabilities. CISA’s recommended mitigation measures—including paper-based voting records, rigorous post-election manual audits, SBOM adoption, and improved incident tracking—provide a path toward measurable, near-term improvements.

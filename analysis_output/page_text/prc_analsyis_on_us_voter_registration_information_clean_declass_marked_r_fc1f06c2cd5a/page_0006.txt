@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_analsyis_on_us_voter_registration_information_clean_declass_marked_r_fc1f06c2cd5a",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Analsyis on US Voter Registration Information - clean - declass marked_Redacted.pdf",
+  "source_sha256": "fc1f06c2cd5abd40c5d5c4a918ec57e5d350d54297cb33368ae49eb58d705e81",
+  "page_number": 6,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 0.0
+}
+
+

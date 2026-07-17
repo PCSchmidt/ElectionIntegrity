@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_23nov2020_declass_redact_3b4950eaeef1",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_23NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "3b4950eaeef104c15054ef1367abd9ac2d67438ed1e0ff286a1621db9d78965b",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 87.83196721311475
+}
+
+DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026 From: SN Sent: Monday, November 23, 2020 2:18 PM To: S\N Subject: RE: NSA deliberately messaging elections PDB Classified By: Derived From: Declassify On: | think we have two albeit related things going on here- - i Jeremy One, the PDB which apparently they've worded away from elections. | haven’t seen the draft Gj?) but fs characterization is familiar as to what we heard a couple weeks ago (and | would be concerned as to why they are “deliberately massaging” analysis away from elections). | haven’t heard that it is off but it may be further delayed pending the upcoming releases. - Two, there is a larger effort in NSA that they will get all {J reporting needed for the 45 day report into {J for ease of reporting (we have this request into all the agencies). I’ve asked {J and {J to check in with the regional NIOs to see if they are making progress toward the 30 November date on the ICA draft per our email exchange with the DNI. From: ON | Sent: Monday, November 23, 2020 1:45 PM 1: SON SS <0 - Subject: RE: NSA deliberately messaging elections PDB Classified By: Derived From: Declassify On: I’m not sure what to make of this. if this is off, why does [J say, “ok”? For: SO Sent: Monday, November 23, 2020 8:17 AM 0: ON - Subject: NSA deliberately messaging elections PDB 1

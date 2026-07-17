@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_u_s_presidential_election_related_intelligence_in_2020_clean_declass_91565055d7ed",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC U.S. Presidential Election-Related Intelligence in 2020 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "91565055d7ed239f44d40bd990197ea1830814c48a154c6db6e8bdfb88809e5c",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 0.0
+}
+
+é

@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 11,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 79.61538461538461
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 Named U.S. trade association 1 Named U.S. think tank | Unknown 4 6) Named U.S. travel company (UMM) Other Private U.S. Entities — <a ——— — ee es a Le DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

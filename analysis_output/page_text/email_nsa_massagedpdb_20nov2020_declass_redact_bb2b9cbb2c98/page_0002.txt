@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_20nov2020_declass_redact_bb2b9cbb2c98",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_20NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "bb2b9cbb2c9833028ccf1b2f32d5d009203b60690b0fcb88bb34357014aec12e",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 91.25221238938053
+}
+
+Classified By: Derived From: Declassify On: | think | mentioned to you before that there is some pending that makes it clear China has been caught conducting election influence. At least that’s how it was described to us. you scroll up, note that NSA is “deliberately massaged our one pending PDB to avoid any direct links to the election.” While this is important for your report I’m sure, it also has the potential to be a near-term issue we will need to draw attention to. This is a really good example, but far from the only one, of what I’ve been raising since the summer—that the IC is deliberately avoiding mentioning a connection to elections for non-substantive reasons. Obviously since the ii isn’t released yet—they’re holding it until next week—there isn’t a PDB so maybe it won't end up being an issue. But this is a highly irregular way to do things, especially as someone trying to raise tradecraft and substantive objections to the mainline analysis and isn’t getting our work incorporated or even mentioned. National Intelligence Officer - Cyber ODNI/National Intelligence Council Secure: rai Unclass email: ne Tandberg: ie “The spice must flow.” Fo SO Sent: Friday, November 20, 2020 10:48 AM Co > rr Subject: FW: (U) Note to Election Threat 45 day ICA China Section Drafting Team Classified By: Derived From: Declassify On:

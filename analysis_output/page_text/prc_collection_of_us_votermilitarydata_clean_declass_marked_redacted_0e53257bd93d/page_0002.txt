@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_collection_of_us_votermilitarydata_clean_declass_marked_redacted_0e53257bd93d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Collection of US VoterMilitaryData - clean - declass marked_Redacted.pdf",
+  "source_sha256": "0e53257bd93d7e807cd48fae2cfcd92591aa47f172d33d90543c889a4526b83e",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 78.85964912280701
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 U.S. Consumer database eee ee U.S. Voter Registration database Saas U.S. Voter Registration databases from State Governments of EE Georgia, lowa ae < Registered U.S. Military Personnel Information database PENNE cornorenonsive Pi bosetine on US. DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

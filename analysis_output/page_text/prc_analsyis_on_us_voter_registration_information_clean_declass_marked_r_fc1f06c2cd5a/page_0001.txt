@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_analsyis_on_us_voter_registration_information_clean_declass_marked_r_fc1f06c2cd5a",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Analsyis on US Voter Registration Information - clean - declass marked_Redacted.pdf",
+  "source_sha256": "fc1f06c2cd5abd40c5d5c4a918ec57e5d350d54297cb33368ae49eb58d705e81",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 53.21965317919075
+}
+
+‘ASB GE Analysis on U.S. Voter Registration Information from Multiple States, Hi Fe Conduct U.S. Identity Matching and Public Opinion Analysis; 2019 ee ee a nee CSR a I a ele Se a en ee Aca ec ne oct th 0 Moe, oe Ae aire Ayres ea A aR a aa ar i a PE i FRE se REE SR i SS TS ce a eh NESE ake DRT gee ee aaa eee Se CESS (U) DETAILS Scam ao eee tease oe analysis on U_S. voter registration U.S. voter registration records from the Mid-term Elections. peice: . data ij evi a cette, contained iy personal identifiable information (Pll). ee Pa: it would be a ee ery her eee | agen mining Pll on U.S. Pe ee could be ER to analyze, discover, hk ae the identities of U.S. citizens i BPRS te — information would be used to conduct rie a bes. Peaster. at) analysis on the U.S. General Election. Furthermore, ne Te to continue i’ state voter registration data. SIREN Se eter

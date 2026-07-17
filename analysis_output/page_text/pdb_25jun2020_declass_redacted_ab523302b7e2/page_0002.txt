@@ -1,0 +1,10 @@
+{
+  "document_id": "pdb_25jun2020_declass_redacted_ab523302b7e2",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PDB 25JUN2020_DECLASS_REDACTED.pdf",
+  "source_sha256": "ab523302b7e2c77b5d530b1483f668e76581accbb0eb14180ab1d1a7acfd3302",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 0.0
+}
+
+“y

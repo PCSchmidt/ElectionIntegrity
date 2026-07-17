@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 80.1048951048951
+}
+
+SENSITIVE GOVERNMENT AGENCY ) ) PROT: PRC i Possesses List of Likely Leaked, Compromised Data that included U.S., iy Entities in 2019; Data Sets Apparently Include Those Related to ME, 2nd Voter Data / Pil Laan: aie Uren na etinnr mene sii ce: =a was in possession of a document as =a 2019 that contained a list ar entities and the deta yielded. While a comparatively small portion of the list's entries featured entities a the U.S., most of the entries were targets in other countries. The data was primarily dated from between 2009 and — Lrrr——~—<iC BB ©! particular note, the majority of the entities consisted sy data sets of personally identifiable information (Pil), potentially indicating that the bulk collection of such PII had been their goal. Furthermore, these Pll-related data sets included several characterized as voter registration records. Page 1 SSS

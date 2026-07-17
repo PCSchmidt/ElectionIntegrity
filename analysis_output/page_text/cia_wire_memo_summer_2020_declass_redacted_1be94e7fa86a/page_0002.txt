@@ -1,0 +1,10 @@
+{
+  "document_id": "cia_wire_memo_summer_2020_declass_redacted_1be94e7fa86a",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\CIA Wire Memo Summer 2020 DECLASS_REDACTED.pdf",
+  "source_sha256": "1be94e7fa86a729a2c16266fd32ed1947793903b5fa50577c9648c697dc0c48b",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 75.8273092369478
+}
+
+Seed a a laces ea Lae elated an ati ASN (7S eS ee a eS a ee + ee a Se ee ee ET /ViRe [J China: Cyber Activities Probably Prelude... Internet activity and system information that the operators can use to exploit the accounts and identify other targets of interest. — Sigg Knowledge of a campaign official's operating system and software would allow cyber actors to determine whether they could quickly exploit known vulnerabilities or if they needed to develop malware to gain undetected access to the victim’s machine. — [gg |f a target opened a spear-phishing e-mail with a tracking link—even without clicking on any links—it would confirm an active account for the cyber actors, potentially narrowing the target set for future operations. L\ For additional information: aE | eA ee oak: eee Ee RE Cede ae Se ES Se ere cere emt | TES oa| Produced jointly under the auspices of the Chief of Analysis, mmm the Federal Bureau of Investigation, and the National Security Agency. Tiida) (Rieder et cu ae ing a area col eee aa oe ale eee OCUMENT DETAILS CONTENTS Produced By: CIA Product Type: World Intelligence Review Document Number: WiRe2020-05063 Publication Date: 01 Jul 2020 Contact: [is (Secure), EEE (open) Material used in the WIRe may be subject to copyright laws. Further reproduction and dissemination by any means, for any purpose other than official business, may be subject to copyright restrictions and is generally prohibited without the permission of the copyright halder.

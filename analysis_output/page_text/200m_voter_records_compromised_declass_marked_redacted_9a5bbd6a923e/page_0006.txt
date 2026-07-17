@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 6,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 85.60135135135135
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 BE) Compromised Websites aaa Data Volume Date of Information Apparent Contents Named U.S. business BE <cords eee) 2016 Unknown services company 2's complaints website el data from named U.S. business services company 3 ©) BB cata from Bae records Data that is unable to named U.S. business be updated services company 4 Named U.S. web servi re asd records Includes email addre ces company 1 sses, passwords and data. Named U.S. web servi ces company 2 Named U.S. web servi See records Includes domain ces company 3 names, registered email addresses, login IDs, passwords, accou nt numbers, dates of registration, etc. Named U.S. web servi fe ee ed records 2017 Data unable to be ces company 4 updated | ES eee ee oe ee Page 6 DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

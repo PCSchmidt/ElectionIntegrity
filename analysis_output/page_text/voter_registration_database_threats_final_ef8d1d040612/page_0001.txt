@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_registration_database_threats_final_ef8d1d040612",
+  "source_relative_path": "4. Noncitizens on State Voter Rolls\\Voter Registration Database Threats - FINAL.pdf",
+  "source_sha256": "ef8d1d0406127f1618210004db8602d59e2c4afe534de46784932f904ef110c3",
+  "page_number": 1,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+Recognizing and Addressing Threats to Statewide Voter Registration Databases July, 2026

@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_target_2024_election_2023_clean_declass_marked_redacted_a809fb5ace7f",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Target 2024 Election 2023 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "a809fb5ace7f3a5b1a9748e243fd9e5f008e55fcec93352009e5eb2ee08695e7",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 44.157303370786515
+}
+
+aa ee eee (U) Key points Saas aa ene | The essential element in this report is as follows: |. a aS ee I £0 t2r92% the 2024 US elections. (U) HM Analysis target unidentified 2024 US elections 1 iii (U) Details B®. Po as ) SSS eee: Ee ee) es eee RL oe Pe ee LN ee ee ae | Ee ee Se ee | ee Ee FE ES ee |) 2 Ses 2 ae | Ss aa reer eee aaa ns TS (a | a ee es

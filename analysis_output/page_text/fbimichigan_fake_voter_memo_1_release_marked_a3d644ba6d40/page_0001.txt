@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_fake_voter_memo_1_release_marked_a3d644ba6d40",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan Fake Voter Memo 1 RELEASE MARKED.pdf",
+  "source_sha256": "a3d644ba6d4041ee69402c8b4e024f514b01f1d06cce2cff13339594b9514a1e",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 85.77987421383648
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 7 _ a Orriciat Recorp FD-1057 (Rev. 5-8-10) UNCLASSIFIED// Feo ater FEDERAL BUREAU OF INVESTIGATION Electronic Communication Title: (U) Searches iz Date: 03/31/2022 ~ a From: DETROIT DE-I17 STATE OF MICHIGAN; CDPO - ELECTION LAWS SENSITIVE INVESTIGATIVE MATTER Synopsis: (U) Searches on P| Details: (U) On 22 March 2022, writer conducted searches in Accurint, Clear, and through the Secretary of State iia” to determine if the information on his voter registration form 1s fraudulent. The returns are included below: ¢« (U) There were no returns “ii with the same date of birth as the voter registration fornt. « (U) The address listed on the voter registration form is not a residence in Muskegon, Michigan and the zip code listed for that street is incorrect. e« (U) The phone number listed on ter registration form is inactive and does not return to o¢ UNCLASSIFIED / /Feve

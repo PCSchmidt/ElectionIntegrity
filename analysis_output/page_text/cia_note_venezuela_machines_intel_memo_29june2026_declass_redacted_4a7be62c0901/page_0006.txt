@@ -1,0 +1,10 @@
+{
+  "document_id": "cia_note_venezuela_machines_intel_memo_29june2026_declass_redacted_4a7be62c0901",
+  "source_relative_path": "1. Vulnerabilities in Voting and Counting Systems\\CIA Note - Venezuela Machines Intel Memo_29JUNE2026_DECLASS_REDACTED.pdf",
+  "source_sha256": "4a7be62c0901e6de3b0cfee37046ea5ece1a79a0e647d6f4cdae659705148594",
+  "page_number": 6,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 21.0
+}
+
+. - 5 eee

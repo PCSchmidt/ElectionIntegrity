@@ -1,0 +1,10 @@
+{
+  "document_id": "note_sensitive_prc_reporting_from_2018_2020_declass_redacted_ebc8700c7d5a",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\Note - Sensitive PRC Reporting from 2018-2020 DECLASS_REDACTED.pdf",
+  "source_sha256": "ebc8700c7d5a49df87d2002d953d9e8fd18e28b24ac6fe241944da278f485a34",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 62.59090909090909
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 Pr eS ee aR a St ES ee eee ee NZ CENTRAL INTELLIGENCE AGENCY AN Cla NOTE iu: Subject: Sensitive PRC Reporting from 2018 — 2020 sees) aa aS) Ea fesoeaey esas aaa

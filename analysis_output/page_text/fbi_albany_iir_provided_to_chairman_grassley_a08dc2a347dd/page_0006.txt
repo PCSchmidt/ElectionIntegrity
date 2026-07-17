@@ -1,0 +1,10 @@
+{
+  "document_id": "fbi_albany_iir_provided_to_chairman_grassley_a08dc2a347dd",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\FBI_ALBANY_IIR_PROVIDED_TO_CHAIRMAN GRASSLEY .pdf",
+  "source_sha256": "a08dc2a347dd6d0b8e8c40ff5eb6204e08b2854c92acf8b2eb47309458048b7f",
+  "page_number": 6,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 77.0
+}
+
+FBI-SJC-IIR-000006

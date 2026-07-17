@@ -1,0 +1,10 @@
+{
+  "document_id": "cia_note_venezuela_machines_intel_memo_29june2026_declass_redacted_4a7be62c0901",
+  "source_relative_path": "1. Vulnerabilities in Voting and Counting Systems\\CIA Note - Venezuela Machines Intel Memo_29JUNE2026_DECLASS_REDACTED.pdf",
+  "source_sha256": "4a7be62c0901e6de3b0cfee37046ea5ece1a79a0e647d6f4cdae659705148594",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 71.81944444444444
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 Declassified by D/CIA Ratcliffe on 1 July 2026 aa eee a SS er Ll Sa aN WA CENTRAL INTELLIGENCE AGENCY A A CIA NOTE (U) Summary of Select Intelligence Reporting from 2004- 2020 on Venezuela’s Electronic Voting Manipulation Capabilities 29 June 2026 (Fi a Seca eT ot | =a (ea aes | nia ce ne ea EL LER

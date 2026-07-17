@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 14,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 90.6625
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 Named U.S. publisher Be 2017 Military maps and records in PDF format ((publicly released infor 2013 - 2016 Publicly leaked U.S. mation about alleged data NSA intelligence colle ction activities)) ®) Publicly leaked email s from a named former U.S. official F-15-Related Data ') and more 1998 - 2012 Downloaded data computer--such as the initial evaluationsF-15 fighter jet maintenanc e and technical manua |, and other docum entation dated betwe en 1998 and 2012 Named U.S. cleared documents | 2015 - JM 2017 AUS. defense contractor 1 and datab ervice contr ase records in a TXT actor, with a catalog Named U.S. cleared documents and 2012 AU.S. defense contractor 2 service contr documents actor Named U.S. cleared 2013 AU.S. defense contractor 3 ervice contr actor Named U.S. cleared attachment 2015 defense contractor 4 s and emails E e DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

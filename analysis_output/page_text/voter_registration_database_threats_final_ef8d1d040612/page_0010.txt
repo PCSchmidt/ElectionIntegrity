@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_registration_database_threats_final_ef8d1d040612",
+  "source_relative_path": "4. Noncitizens on State Voter Rolls\\Voter Registration Database Threats - FINAL.pdf",
+  "source_sha256": "ef8d1d0406127f1618210004db8602d59e2c4afe534de46784932f904ef110c3",
+  "page_number": 10,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+9 CONCLUSION Voter registration databases are the foundation of o u r voting system. State and local election officials must prioritize system security and implement safeguards to prevent the exploitation of data that may have already been exposed. Adopting modern security enhancements such as smart network monitoring and multi-factor authentication can limit the risks of fraud and election disruptions. The Department of Homeland Security is charged with protecting the nation’s critical infrastructure, including election infrastructure, and all state election officials are encouraged to collaborate with DHS on this important mission. For more information about election security and resources to protect elections, visit the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA) Cybersecurity Toolkit and Resources to Protect Elections page: https:// www.cisa.gov/cybersecurity-toolkit-and-resources-protect-elections

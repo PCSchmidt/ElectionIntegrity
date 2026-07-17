@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_registration_database_threats_final_ef8d1d040612",
+  "source_relative_path": "4. Noncitizens on State Voter Rolls\\Voter Registration Database Threats - FINAL.pdf",
+  "source_sha256": "ef8d1d0406127f1618210004db8602d59e2c4afe534de46784932f904ef110c3",
+  "page_number": 6,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+5 PREPAREDNESS IS THE BEST DEFENSE DEVELOP A PLAN Preparedness, built on a realistic threat assessment, is the foundation of effective election security measures. With a sober acknowledgment of the threat, state and local election officials can take steps to enhance the security of voter registration databases and absentee and mail ballots. BACK UP DATABASE FILES REGULARLY A commitment to good cybersecurity and best practices is critical to protecting voter registration data. States should schedule frequent, routine back-ups of the voter registration database files and store them securely offline. States should also test the ability to revert to back-up during an incident. For jurisdictions that utilize electronic pollbooks, producing paper pollbooks as back-ups will limit the potential for disruptions on Election Day. ENGAGE YOUR PLAN If you detect unauthorized access to your voter registration database, immediately implement your security incident response plan. It may take time for your organization’s IT professionals to isolate and remove threats to your systems and restore normal operations. In the meantime, you should take steps to maintain your organization’s essential functions according to your election resiliency and continuity plan.

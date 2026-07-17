@@ -1,0 +1,10 @@
+{
+  "document_id": "email_re_please_coord_by_cob_9_1_4_country_election_security_graphic_03s_48ddc4a93e6d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf",
+  "source_sha256": "48ddc4a93e6d4283be828cb77ea7f543a47e3cee664bdcbbbc8663da1b5b816d",
+  "page_number": 24,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 74.875
+}
+
+DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026 Classified By: Derived From: Dated: Declassify On: Classificati:: I IID Classification: i Classifiacat ion: re C—O DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026

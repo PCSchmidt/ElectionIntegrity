@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_20nov2020_declass_redact_bb2b9cbb2c98",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_20NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "bb2b9cbb2c9833028ccf1b2f32d5d009203b60690b0fcb88bb34357014aec12e",
+  "page_number": 4,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+As far as downgrades/crossposting for ICA purposes—like said, as long as we can get to the level we’re good. NSA has been fantastic about making election-relevant usable, and we really appreciate your commitment to that. Director, Election Threat Analysis National Intelligence Council/DNI Election Threat Executive From: NSA USA GOV Sent: Friday, November 20, 2020 9:20 AM To: NSA USA GOV @nsa Cc: @nsa @nsa DNI- NSA USA GOV NSA USA GOV NSA USA GOV NSA USA GOV Subject: RE: (U) Note to Election Threat 45 day ICA China Section Drafting Team Classification: OK, thx. Regarding cross-posting into various or downgrading to for the 45 day piece, if you make sure there are versions, we’re good. CNIO for Cyber and Elections Cryptologic National Intelligence Officer Council Office of Strategic Analysis Information & Intelligence Analysis Directorate of Operations National Security Agency Secure: Unclass: Team email:

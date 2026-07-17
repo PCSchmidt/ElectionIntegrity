@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_u_s_presidential_election_related_intelligence_in_2020_clean_declass_91565055d7ed",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC U.S. Presidential Election-Related Intelligence in 2020 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "91565055d7ed239f44d40bd990197ea1830814c48a154c6db6e8bdfb88809e5c",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 77.47340425531915
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 sources that information published on i on the U.S. x I Ss a a 2 pes Fata 2020 U.S. Presidential election infographics and products. ee ee eee ae ¢9¢ products consisted of I infographics and fi maps, which would provide election officials, interested parties, and voters with information for mail-in voting, post-election, and election returns procedures, as these procedures differed according to state or administrative jurisdiction area, or both. Sa te-- products provided procedures to implement countermeasures for rumors, and to safeguard the 2020 U.S. Election. i= a en ees. s. Presidential election information products were: ° mail-in voting processing map, i ,and provided a visualization of each state's mail-in voting procedures; e mail-in voting 2020 policy change ni iii” a map ie eee state's changes stemming from the COVID-19 epidemic; ¢ mail-in voting election EE safeguards infographic, i process timetable from a ee age Election Day 2020 through NN Inauguration Day; and e election results reporting risks and mitigation 1005.1. aS ee Sa ae | DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

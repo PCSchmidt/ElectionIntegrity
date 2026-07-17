@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-07-17T13:09:32.793982+00:00",
+  "source_root": "C:\\Users\\pchri\\Documents\\ChrisStuff\\WhitehouseDotGov",
+  "document_count": 58,
+  "page_count": 269,
+  "ocr_page_count": 227,
+  "review_page_count": 43,
+  "searchable_ocr_pdfs_enabled": false,
+  "configuration": {
+    "minimum_native_text_characters": 75,
+    "ocr_dpi": 300,
+    "ocr_language": "eng",
+    "low_confidence_threshold": 75.0
+  }
+}

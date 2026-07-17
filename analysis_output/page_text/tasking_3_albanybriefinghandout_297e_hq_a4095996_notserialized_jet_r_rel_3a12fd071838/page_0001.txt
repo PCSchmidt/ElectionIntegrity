@@ -1,0 +1,10 @@
+{
+  "document_id": "tasking_3_albanybriefinghandout_297e_hq_a4095996_notserialized_jet_r_rel_3a12fd071838",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\Tasking_3_AlbanyBriefingHandout_297E_HQ_A4095996_NotSerialized-JET-R RELEASE MARKED.pdf",
+  "source_sha256": "3a12fd071838ce6e90acf284a97cffbf7b9a47499325d6e80f005941539e073a",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 84.10810810810811
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 Tab 1 e Electronic media reviewed ¢ People identified for an interview ¢ Relevant personnel link chart e IIR dissemination flow chart (generic) e IIR recall decision tree e IPPG relevant sections Tab 2 sar ¢ FBI Albany IIR#1 dissemination flow chart*” 5 | e FBI Albany IIR #1 recall flow chart ‘ e Pertinent electronic communications on 09/25/2020 i ¢ Log of direct electronic communication between DAD Floris and DAD Ugoretz e Recalled IIR ~~ ab3 “ Ww . e Emails from Albany discussing the IIR and Director Wray’s testimony Tab 4 : e FBI AlbanyiIR #2 flow chart e Pertinent electronic communications from 09/26/2020 — 10/08/2020 ¢ DAD Floris IM with OGA Tab 5 e FITF lead to FBI Chicago flow chart Tab 6 “~~ e TIR recall statistics from 2019-June 2025

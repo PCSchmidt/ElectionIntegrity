@@ -1,0 +1,10 @@
+{
+  "document_id": "0000001_release_marked_9dea06f5589a",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\0000001 - RELEASE MARKED.pdf",
+  "source_sha256": "9dea06f5589aba90060ab2868b26b332f84bced02abdf37e46ee320e20b297cd",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 93.416
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 UNCLASSIFIED Title: (U) Opening EC Re: 56D-DE-3407960, 03/16/2021 There is information or an allegation the subject, and others yet unknown, were engaging in and/or are currently engaged in possible federal criminal activity. V. The identification of all known SIMS or significant issues involved in the investigation. The allegations involve potential payments for registrations for the 2020 national election and concern matters which require the concurrence of DOJ Public Integrity Section Election Crimes Unit and the FBI PCU as documented in Section X below. vI. The identities of the subjects, including all reasonably available descriptive data to be indexed within FBI databases. Social Security Number: po Driver License Number: p UNCLASSIFIED 4

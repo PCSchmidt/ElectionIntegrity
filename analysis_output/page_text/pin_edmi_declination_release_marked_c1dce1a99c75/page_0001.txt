@@ -1,0 +1,10 @@
+{
+  "document_id": "pin_edmi_declination_release_marked_c1dce1a99c75",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\PIN EDMI declination - RELEASE MARKED.pdf",
+  "source_sha256": "c1dce1a99c75d4842c66947d53b7a6c13f691d1933c12fe2519d77e7db14ffc2",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 86.61711711711712
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 From: a (05) (1) Sent: Thursday, August 12, 2021 1:29 PM To: DE) (FBI) Subject: FW: From: SS 550) Sent: Thursday, August 12, 2021 1:28 PM To: I (08) (£61 Subject: [EXTERNAL EMAIL] - RE: as 2: informally advised us that no further action should be taken in this District at this time. He will send us an official response, which | will pass along when received. | do not know the status of any authorization for the Eastern District investigation. om i Sent: Friday, July 30, 2021 10:14 AM To: (USAMIW) Subject: Re Have you heard anything? From: iS (550) Sent: Tuesday, July 20, 2021 8:50:43 AM To: I (06) (F21 Subject: [EXTERNAL EMAIL] - RE: Yes. IE saic he needed to talk to his supervisor and would get back to us this week. cor i Sent: Tuesday, July 20, 2021 8:26 AM To: (USAMIW) Subject: Re: Have you spoken to PIN? From: i 550) Sent: Monday, June 28, 2021 10:39:44 AM To: I (06) (F21 Subject: [EXTERNAL EMAIL] - FW: is is the authorization we received from PIN to conduct a preliminary investigation. Having done so, Can you prepare a synopsis summarizing the findings to date that we can forward to PIN for further guidance? Thanks.

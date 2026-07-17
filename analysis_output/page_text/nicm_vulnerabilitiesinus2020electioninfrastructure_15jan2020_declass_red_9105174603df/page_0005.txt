@@ -1,0 +1,10 @@
+{
+  "document_id": "nicm_vulnerabilitiesinus2020electioninfrastructure_15jan2020_declass_red_9105174603df",
+  "source_relative_path": "1. Vulnerabilities in Voting and Counting Systems\\NICM_VulnerabilitiesInUS2020ElectionInfrastructure_15JAN2020_DECLASS_REDACTEDed.pdf",
+  "source_sha256": "9105174603df72f1c9142b8e0bb56e1e036dc6d4f3dbaf559aada1e2b7e22d4c",
+  "page_number": 5,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+[ 5 ]  Physical Security and Cyber Hygiene. These terms refer to adopting best practices for the physical and cyber protection of election facilities and equipment. Basic security measures―replacing obsolete equipment, strengthening password policy and audit processes, and implementing network segmentation―might prevent less sophisticated adversaries from disrupting election processes but probably would be insufficient to deter the most advanced and determined nation-state actors.  Third-Party Vendor Verification. Establishing and refining screening procedures for vendors who manufacture or transship election infrastructure could reveal shared vulnerabilities or insider threats.  Public Messaging and Education. Public messaging would be vital to providing accurate and timely information about the effects and limited scope of low-impact cyber operations. Partnerships with state and local election officials, cyber security firms, and the media could help minimize commercial disruptions, as well as counter cyber- enabled information operations. Timely public messaging before the election would help to educate the public about adversary goals and make US officials the trusted source for information about the integrity of the election process, recovery efforts, and investigations into attempted cyber attacks.  Messaging to Adversaries. Privately messaging adversaries to emphasize that attempts to manipulate US election infrastructure are unacceptable and would have serious consequences could deter them from taking such steps.

@@ -1,0 +1,10 @@
+{
+  "document_id": "whtf_government_transparency_states_statement_final_62bc6f53d36e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\WHTF Government Transparency - States Statement FINAL.pdf",
+  "source_sha256": "62bc6f53d36ea6ce9c3ffae2a0ead43f0df21fc8d32cd99b980e84ce8c60f353",
+  "page_number": 1,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+July 13, 2026 In May 2026, President Trump created the Government Transparency Task Force within the White House Executive Office of the President for the purpose of advising him, through the Counsel to the President, on documents that should be declassified and/or released to the public to further his administration’s priorities of transparency and accountability. Today the Government Transparency Task Force announces the first disclosure of U.S. Intelligence Community records that were declassified last week under the direction of President Trump. The declassified intelligence reveals that voter registration rolls from at least 18 states (not all identified by name) have been compromised by the People’s Republic of China (PRC). Additional intelligence records reveal that more than 200 million voter records were also compromised by the PRC, without state-specific affiliations. President Trump is alerting Congressional and state government leadership officials to the election infrastructure vulnerabilities in states identified by name in the declassified intelligence records. • Alaska • Arkansas • Colorado • Connecticut • District of Columbia • Florida • Georgia • Iowa • Kansas • Maryland • Michigan • New York • North Carolina • Ohio • Oklahoma • Rhode Island

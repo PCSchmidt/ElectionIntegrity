@@ -1,0 +1,10 @@
+{
+  "document_id": "tasking_3_albanybriefinghandout_297e_hq_a4095996_notserialized_jet_r_rel_3a12fd071838",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\Tasking_3_AlbanyBriefingHandout_297E_HQ_A4095996_NotSerialized-JET-R RELEASE MARKED.pdf",
+  "source_sha256": "3a12fd071838ce6e90acf284a97cffbf7b9a47499325d6e80f005941539e073a",
+  "page_number": 5,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 87.85416666666667
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO tHE PRESIDENT WARRINGTON on 10 July 2026 UNCLASSIFIED//FOR OFFICIAL USE ONLY IIR Dissemination Flow Chart Handling Agent Drafts FD-1023 Source Report in Delta SSA Approves FD-1023 in Delta The Report Duplicates to Sentinel The Analyst Assigns an Intel Review (RMS) in Sentinel The Analyst Tags the Report and Does Not Meet DRAIN: Assesses DRAIN Criteria The Analyst Closes the Intel Review in Sentinel — . Does Meet DRAIN: The Analyst Drafts an IIR Aecontiction/Coortnnnn, Requested From Ops, Intel, and on . >. # - Legat By Intel ae (as Needed) The IIR is Sent to the CRO ~ Approval Requested Fro egal, Executive Management, and HQ — = ‘iii atte. By Intel (as Needed) The IIR is Disseminated by the CRO DRAIN Criteria - (Per RIRM, 2019) Detailed — Each !/R must contain intelligence sufficiently detailed to be of operational, investigative, and/or analytic value Respects the Rights of USPERs - ||Rs must respect the rights of USPERs to participate in constitutionally protected activities, such as speech and assembly. Authoritative -|IR authors, reviewers, and releasers must ensure that the source of the information in the IIR could credibly have had access to the information provided. i Of Interest - IRs must address a valid intelligence requirement to be considered “of interest.” New -|IRs should contain information that the USIC does not already have or cannot obtain through open sources. UNCLASSIFIED//FOR OFFICIAL USE ONLY DRAFT

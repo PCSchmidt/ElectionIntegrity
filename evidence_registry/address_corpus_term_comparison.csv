@@ -1,0 +1,41 @@
+source,term,occurrences,words,occurrences_per_1000_words
+Address transcript,Election infrastructure,2,3094,0.6464124111182935
+Address transcript,Voter registration,4,3094,1.292824822236587
+Address transcript,Voter data or records,6,3094,1.9392372333548804
+Address transcript,China or PRC,12,3094,3.878474466709761
+Address transcript,Noncitizen or citizenship,5,3094,1.6160310277957335
+Address transcript,Voting systems or machines,2,3094,0.6464124111182935
+Address transcript,Ballots,7,3094,2.2624434389140275
+Address transcript,Fraud,6,3094,1.9392372333548804
+1. Voting and counting systems,Election infrastructure,14,8632,1.6218721037998145
+1. Voting and counting systems,Voter registration,6,8632,0.6950880444856349
+1. Voting and counting systems,Voter data or records,1,8632,0.11584800741427248
+1. Voting and counting systems,China or PRC,36,8632,4.170528266913809
+1. Voting and counting systems,Noncitizen or citizenship,0,8632,0.0
+1. Voting and counting systems,Voting systems or machines,31,8632,3.5912882298424464
+1. Voting and counting systems,Ballots,16,8632,1.8535681186283597
+1. Voting and counting systems,Fraud,5,8632,0.5792400370713623
+2. China and American voter data,Election infrastructure,9,27818,0.32353152634984544
+2. China and American voter data,Voter registration,36,27818,1.2941261053993818
+2. China and American voter data,Voter data or records,17,27818,0.6111151053274858
+2. China and American voter data,China or PRC,204,27818,7.333381263929829
+2. China and American voter data,Noncitizen or citizenship,1,27818,0.035947947372205045
+2. China and American voter data,Voting systems or machines,2,27818,0.07189589474441009
+2. China and American voter data,Ballots,1,27818,0.035947947372205045
+2. China and American voter data,Fraud,19,27818,0.6830110000718959
+3. Michigan registration investigation,Election infrastructure,0,12819,0.0
+3. Michigan registration investigation,Voter registration,85,12819,6.630782432327014
+3. Michigan registration investigation,Voter data or records,0,12819,0.0
+3. Michigan registration investigation,China or PRC,0,12819,0.0
+3. Michigan registration investigation,Noncitizen or citizenship,0,12819,0.0
+3. Michigan registration investigation,Voting systems or machines,0,12819,0.0
+3. Michigan registration investigation,Ballots,8,12819,0.6240736406896014
+3. Michigan registration investigation,Fraud,55,12819,4.29050627974101
+4. Noncitizens on state voter rolls,Election infrastructure,4,3345,1.195814648729447
+4. Noncitizens on state voter rolls,Voter registration,38,3345,11.360239162929746
+4. Noncitizens on state voter rolls,Voter data or records,5,3345,1.4947683109118086
+4. Noncitizens on state voter rolls,China or PRC,5,3345,1.4947683109118086
+4. Noncitizens on state voter rolls,Noncitizen or citizenship,6,3345,1.7937219730941705
+4. Noncitizens on state voter rolls,Voting systems or machines,1,3345,0.29895366218236175
+4. Noncitizens on state voter rolls,Ballots,10,3345,2.9895366218236172
+4. Noncitizens on state voter rolls,Fraud,5,3345,1.4947683109118086

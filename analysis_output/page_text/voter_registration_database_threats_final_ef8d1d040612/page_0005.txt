@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_registration_database_threats_final_ef8d1d040612",
+  "source_relative_path": "4. Noncitizens on State Voter Rolls\\Voter Registration Database Threats - FINAL.pdf",
+  "source_sha256": "ef8d1d0406127f1618210004db8602d59e2c4afe534de46784932f904ef110c3",
+  "page_number": 5,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+4 POTENTIAL AVENUES FOR EXPLOITATION WHY IT MATTERS OBTAINING ABSENTEE BALLOTS In nearly every election jurisdiction, the information required to apply for and receive an absentee ballot is stored in the voter registration database. A breach can allow bad actors to access public information such as name, date of birth, and address but also sensitive information like driver’s license numbers, full or partial social security numbers, and voter signatures on file. That information could enable bad actors to request absentee ballots at scale for low-propensity voters. Data obtained in a breach from 2021, for example, could be used to request a ballot for an election in 2028 because the data does not get stale. ALTERING VOTER REGISTRATION INFORMATION OR DELETING REGISTRANTS A malicious actor could use data from a breach to alter voter registration records to change addresses and therefore their polling place or change party affiliation to impede voting in an election. Perpetrated at scale, this type of exploitation could disenfranchise a significant number of voters, and if carefully distributed, such an attack might go unnoticed even if the scope was significant. This type of malicious alteration of voter data could be done over time using data obtained from a breach to log into official online state systems that enable voters to update their voter registration after passing identity checks using personal data like date of birth, portions of social security numbers, or driver’s license number. Deletion of voter registration files could cause disruptions in the administration of elections if done at scale or, if executed in a distributed manner.

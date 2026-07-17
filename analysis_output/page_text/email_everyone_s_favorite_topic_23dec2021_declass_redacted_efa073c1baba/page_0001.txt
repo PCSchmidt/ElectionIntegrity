@@ -1,0 +1,10 @@
+{
+  "document_id": "email_everyone_s_favorite_topic_23dec2021_declass_redacted_efa073c1baba",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_Everyone's favorite topic 23DEC2021 - DECLASS_REDACTED.pdf",
+  "source_sha256": "efa073c1baba2f629a41e0c29841a15acf00dc1b7c4ea62fa9e0b208a69619fe",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 90.81854838709677
+}
+
+DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026 From: To: Cc: Subject: Everyones favorite topic Date: Thursday, December 23, 2021 12:52:29 PM Classification: x Classified By: Derived From: Declassify On: Take a minute and read through this report. It cites some of the same intel and logic used in 2020 to say that these same units were NOT engaged in election influence but were instead only issue- focused, to now argue that China |S influencing the [ election. The regional influence, focus on issues, etc. They literally cite as support for their argument some of the same reporting used in the mainline assessment in our minority report. For example, they cite activity as being “the Chinese military’ even though in 2020 the IC said we didn’t know who it was. This report describes the same unit that and! said were influencing the US 2020 election and now characterizes it as an election-influence unit and attributes it to the Chinese Government. That's a weird coincidence, and one we should highlight for oversight. 2 a We should consider how this looks and on what logical, non-partisan basis the IC makes calls one way or the other. Why is this unit engaged in election influence in the EE anc Ii “to promote China’s interests” but when they do it here it’s “issue influence” but somehow not election- related? /t’s the same personnel doing the same kind of activity. National Intelligence Officer - Cyber ODNI/National Intelligence Council Secure: Unclass: as Classification: x

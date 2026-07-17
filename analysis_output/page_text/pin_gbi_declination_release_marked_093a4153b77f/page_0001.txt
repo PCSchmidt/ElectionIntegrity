@@ -1,0 +1,10 @@
+{
+  "document_id": "pin_gbi_declination_release_marked_093a4153b77f",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\PIN GBI Declination - RELEASE MARKED.pdf",
+  "source_sha256": "093a4153b77feddf475a6ad9aaf3bd8e2e2f4d8c00cd516b319d0c3f18516302",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 91.25149700598803
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 [EXTERNAL EMAIL] - RE: Thu 11/4/2021 9:07 AM To: E) (FBI) lO ox AMIW) | understand, based on previous calls with you and the USAO in the Western District of Michigan copied here) and other information provided by both, that your respective offices have evaluated the matter and are not seeking further investigative or prosecutive action at this time. Based on the information provided previously, PIN agrees with that conclusion. Please let me know if you have any questions or issues to discuss further. Thank you. Sent: October : To: (CRM) Subject: Hello lll We previously discussed the current state of the vestigation, the results of our financial review, and the content of the Michigan Attorney General's Office casefile that was provided to us. Would you be able to provide an undated letter regarding DOJ/PIN's view on concurrence/nonconcurrence? Please don't hesitate to call with any questions or if you need additional information. i

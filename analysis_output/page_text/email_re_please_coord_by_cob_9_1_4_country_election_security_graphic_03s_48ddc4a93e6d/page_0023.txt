@@ -1,0 +1,10 @@
+{
+  "document_id": "email_re_please_coord_by_cob_9_1_4_country_election_security_graphic_03s_48ddc4a93e6d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf",
+  "source_sha256": "48ddc4a93e6d4283be828cb77ea7f543a47e3cee664bdcbbbc8663da1b5b816d",
+  "page_number": 23,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 90.68181818181819
+}
+
+DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026 Thanks! a EEMC/RUMB/Strategic & Asymmetric Warfare DECLASSIFIED BY PRESIDENT TRUMP on 3 July 2026

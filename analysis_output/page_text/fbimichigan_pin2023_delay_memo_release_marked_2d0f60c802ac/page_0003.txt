@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_pin2023_delay_memo_release_marked_2d0f60c802ac",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan PIN2023 Delay Memo - RELEASE MARKED.pdf",
+  "source_sha256": "2d0f60c802ac40616705c6fa949c013411f56b20b5e90884aa32030102757ab5",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 92.22
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 Begin forwarded message: Date: October 3, 2023 at 10:41:08 AM EDT Subject: Call Could you please give me a call on my cell TT when you have a chance? Thanks, ‘a FBI Detroit Grand Rapids RA

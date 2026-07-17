@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_collection_of_us_votermilitarydata_clean_declass_marked_redacted_0e53257bd93d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Collection of US VoterMilitaryData - clean - declass marked_Redacted.pdf",
+  "source_sha256": "0e53257bd93d7e807cd48fae2cfcd92591aa47f172d33d90543c889a4526b83e",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 77.17073170731707
+}
+
+SENSITIVE GOVERNMENT AGENCY Collection of U.S. Consumer, Military, Voter Registration Databases; EE C2 pabilities To Conduct Identity Verification Checks of U.S. Persons DETAILS (U) = Te origin databases, contain the personally identifiable information (PII) of RE ition Americans. i these databases

@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_23nov2020_declass_redact_3b4950eaeef1",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_23NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "3b4950eaeef104c15054ef1367abd9ac2d67438ed1e0ff286a1621db9d78965b",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 80.015625
+}
+
+National Security Agency Secure: Team email: WsA -_ gm ELECTION Se” SECURITY GAO UP sm From: I SA i usa ov i Sent: Wednesday, November 4, 2020 12:58 PM 0: i SA USA COV i SAB USA GOV ES 4 GS USA COV Si SA BR USA Gov SA US 4 COV Subject: (U) Note to Election Threat 45 day ICA China Section Drafting Team All, Greetings, hope all is well. | just wanted to send you a note with a few thoughts on this coming project. First, thanks in advance for your work on this product. Second, when you begin communicating with co-drafters across the community, please cc those on the cc line so we can maintain visibility on progress, provide assistance where needed, and help alleviate any potential problems. | also wanted to let you know that we optimally would like to keep (ct us know if you have any questions. Thx! Regards, Cryptologic National Intelligence Officer (CNIO) for Cyber and Election Threats & Security Cryptologic National Intelligence Officer Council Office of Strategic Analysis Information & Intelligence Analysis fj Directorate of Operations Jj National Security Agency Secure: Team emai: 4}

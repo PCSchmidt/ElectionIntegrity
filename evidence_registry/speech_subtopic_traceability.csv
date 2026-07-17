@@ -1,0 +1,5 @@
+category,documents,pages,ocr_pages,pages_needing_visual_review,source_checked_claims,speech_subtopic,document_folder
+voting_and_counting_systems,8,37,21,2,0,1. Voting and counting systems,1. Vulnerabilities in Voting and Counting Systems
+china_voter_data,23,167,153,40,0,2. China and American voter data,2. ChinaAcquisitionExploitationAmericanVoterData
+michigan_registration_investigation,25,53,53,1,0,3. Michigan registration investigation,3. MichiganVoterRegistrationInvestigation
+noncitizens_on_state_rolls,2,12,0,0,0,4. Noncitizens on state voter rolls,4. Noncitizens on State Voter Rolls

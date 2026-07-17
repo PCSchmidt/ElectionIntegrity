@@ -1,0 +1,10 @@
+{
+  "document_id": "tasking_3_albanybriefinghandout_297e_hq_a4095996_notserialized_jet_r_rel_3a12fd071838",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\Tasking_3_AlbanyBriefingHandout_297E_HQ_A4095996_NotSerialized-JET-R RELEASE MARKED.pdf",
+  "source_sha256": "3a12fd071838ce6e90acf284a97cffbf7b9a47499325d6e80f005941539e073a",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 95.29411764705883
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 ( ( (

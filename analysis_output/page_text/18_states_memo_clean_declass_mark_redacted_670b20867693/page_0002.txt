@@ -1,0 +1,10 @@
+{
+  "document_id": "18_states_memo_clean_declass_mark_redacted_670b20867693",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\18 States Memo - clean - declass mark_Redacted.pdf",
+  "source_sha256": "670b2086769369ee037067abe60a6c5ed04b0ab95a283caddb662fe6f450278a",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 53.598984771573605
+}
+
+CE eee | eS rr ee analysis oe U.S. voter registration _ EEE a eee en eee Seerens ae Ss al voter registration records from the Mid-term elections iain types of information iii on U.S. registered oo ae Saae RAS ea are eee eas eee ee ese eee of personal identifiable information (Pll), and would be = er Se 2 tS aS mining Pilon U.S. citizens ee ee eee could be used as aS resource to analyze, discover, i the identities of ea information would be used to conduct U.S. see General Election es analysis. ME ne eS ee continue a state voter registration data. Se EE EEE nie eS registration data from 18 = iene. AL See obtained the voter registration $a eae Se. and its contents contained voter registration information from i U.S. __ Ree eee a aS are ae ee Sea a a ae ee ee es SE Sy be ie ee eee ee SRE ie ee ee, en i. PO eae ee ea. oe Bee Gey ee UR A ee ee ee _ ae ee ate een EEE ee Pee Ee eee Pabst data included the following types of information on registered voters:

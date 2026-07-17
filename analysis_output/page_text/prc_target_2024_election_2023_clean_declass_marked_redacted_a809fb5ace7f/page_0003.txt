@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_target_2024_election_2023_clean_declass_marked_redacted_a809fb5ace7f",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Target 2024 Election 2023 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "a809fb5ace7f3a5b1a9748e243fd9e5f008e55fcec93352009e5eb2ee08695e7",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 71.33333333333333
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 registration information from Named US state entity 1 (US-1). (U) Election Ce ee the election system as the following year was the US election. [iS Eee | is is a reference to an unidentified 2024 election, almost certainly the 2024 US Congressional or Presidential elections. i eee eed to join an effort to [Fa an unidentified swing state to observe the voting aR: iA I ies cial IETS HARES fei te os SR eR Ie mee Bf coucsted TE a list of swing states. This is almost certainly a reference to US electoral swing states, suggesting their discussion is regarding the 2024 US Presidential election. ( SaeSaiae 5 cain ae i a cua on paar ey ciccatae| OES.

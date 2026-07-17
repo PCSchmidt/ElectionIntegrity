@@ -1,0 +1,10 @@
+{
+  "document_id": "us_voter_registration_for_6_states_clean_declass_marked_redacted_ac95b16038bc",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\US Voter Registration  for 6 States - clean - declass marked_Redacted.pdf",
+  "source_sha256": "ac95b16038bc58837c9800bfc37cb3b208bf45f7ae9fdde7da811ed887ecffe1",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 61.62109375
+}
+
+ee SUBSTANTIVE REVISION: Network Defense Notice: Publicly Available U.S. Voter Registration Information for Six U.S. States Downloaded from Commercial Websites by PRC CNE Actor in January 2022; Same Actor Attempts to Download Ohio Voter Registration Application; iii "eR 65 ai 26 NT RRB Se ye Sy hte a (RES AAS ST ee Ys | A aa OS ARTES RR PE I ETA SST Hee ree ke ES A AI eh aR ai i at SIN a tect ele BEN ie os Wet Aer we ELL ae yea | AER RS Sw os Rec Bk AS Ee Meas et PRT LT it ER Aes Fe ae a ic ca i tah ints cop eres wis nek Be es tet a Dn id nie a saad SS 6 a eS Thee SS TAA AE oS GF ar TW PS TR Ae aE” hey is a revised copy. The State of Oklahoma has been added. |n addition, the websites hosting the voter registration records are commercial websites, and that fact has been clarified in the report. Please remove the original report from all manual and computer files. Bese Preteen (eo SAbaney Publicly available U.S. voter registration information for six states was downloaded by a PRC, MEE, CINE actor on 14 January 2022. The CNE actor ee aod Colorado, Connecticut, Florida, Michigan, Oklahoma, and Rhode Island voter registration information from U.S. commercial websites and a U.S. IP address. In addition, an Ohio voter registration application was also of interest to the CNE actor, but failed to download. i ere aT

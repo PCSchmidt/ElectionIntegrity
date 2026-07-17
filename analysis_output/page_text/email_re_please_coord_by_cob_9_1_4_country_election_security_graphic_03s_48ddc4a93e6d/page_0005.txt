@@ -1,0 +1,10 @@
+{
+  "document_id": "email_re_please_coord_by_cob_9_1_4_country_election_security_graphic_03s_48ddc4a93e6d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf",
+  "source_sha256": "48ddc4a93e6d4283be828cb77ea7f543a47e3cee664bdcbbbc8663da1b5b816d",
+  "page_number": 5,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 83.34615384615384
+}
+
+This is verbatim from the study. The fast point in particular seems important to me. or: Sent: Wednesday, September 2, 2020 4:56 PM To: re Cc:

@@ -1,0 +1,10 @@
+{
+  "document_id": "email_ica_commentsreminorityview_30dec2020_declass_redacted_d393d9815182",
+  "source_relative_path": "1. Vulnerabilities in Voting and Counting Systems\\EMAIL_ICA.CommentsReMinorityView_30DEC2020_DECLASS REDACTED.pdf",
+  "source_sha256": "d393d981518232384b3ca27d077ee5337876d873bd0399a07f98f8e1f5cc432b",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 92.99489795918367
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 To: Ce: Subject: FW: ICA Comments Director Wray signe 1 off on the ICA text, and the only changes since then have been downgrades of already. So it’s not clear to me if they’re backtracking or just commenting for the record Director, Election Threat Analysis National Intelligence Council/DNI Election Threat Executive From: FLORIS, NIKKI L. (CD) (F8!) Sent: Wednesday, December 30, 2020 1:42 PM Cc: UGORETZ TONYA FBI USA GOV ae Subject: |CA Comments pb ‘= Couple of thoughts on the updated ICA draft, all of which center on the minority view and some of which you have previously heard from the FBI team. Generally speaking, while we are fine with the inclusion of the minority view textbox, we firmly believe the analysis in said text box must comport to the same analytic standards as the rest of the ICA. This is an absolute red line for the FBI. Additionally, we do not support the inclusion of the minority view in the KJs; without proper context and source descriptions, the minority view is given parody to the ICA assessments. Below are some more specific points:

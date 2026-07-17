@@ -1,0 +1,10 @@
+{
+  "document_id": "prc_target_2024_election_2023_clean_declass_marked_redacted_a809fb5ace7f",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PRC Target 2024 Election 2023 - clean - declass marked_Redacted.pdf",
+  "source_sha256": "a809fb5ace7f3a5b1a9748e243fd9e5f008e55fcec93352009e5eb2ee08695e7",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 33.126126126126124
+}
+
+SENSITIVE GOVERNMENT AGENCY PR PRC discuss targeting 2024 US elections: 2023 information es! ESA ee eee ee oe eee ET SEES to ee te EG ee ee ee aes COR sei i a hs 58 AI | Es Sn ti ey | SaaS ae Senn re ee Se ES SA a re Se a RE I esa SR as a ee el _ eae ee ER aa Paes Pe Se a ae aaa i ca a ay Te RR A py RRS TESS i eS ger ae (U) Correction ER eit eee Se ORO. a Sor PS eS I IER ET i a Saas a a a PAT Ea Seen. oe

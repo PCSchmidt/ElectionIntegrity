@@ -1,0 +1,10 @@
+{
+  "document_id": "fbi_albany_iir_provided_to_chairman_grassley_a08dc2a347dd",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\FBI_ALBANY_IIR_PROVIDED_TO_CHAIRMAN GRASSLEY .pdf",
+  "source_sha256": "a08dc2a347dd6d0b8e8c40ff5eb6204e08b2854c92acf8b2eb47309458048b7f",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 92.38427947598254
+}
+
+COUNTRY OR NONSTATE ENTITY: Bites States; China SUBJECT: GE chinese Government Production and Export of Fraudulent US Drivers Licenses to Chinese Sympathizers in the United States, in Order to Create Tens of Thousands of Fraudulent Mail-in Votes for US Presidential Candidate Joe Biden, in late August 2020 DATE OF INFORMATION: [J 00 auc 2020 suMMARY: JJ none. SOURCE: | collaborative source with indirect access, none of whose reporting has been corroborated for less than one year. CONTEXT: Pe source obtained the information from an identified sub-source, who claimed they obtained the information from unidentified PRC government officials. WARNING: MR cis is an information report, not finally evaluated intelligence. It is being shared for informational purposes but has not been fully evaluated, integrated with other information, interpreted or analyzed. Receiving agencies are requested not to take action based on this raw reporting without prior coordination with the FBI. Unless a conviction in a criminal proceeding occurs, a presumption of innocence exists for any person being reported on in this IIR. TEXT: des ae late August 2020, the Chinese government had produced a large amount of fraudulent United States drivers licenses that were secretly exported to the United States (NFI). The fraudulent drivers licenses would allow tens of thousands of Chinese students and immigrants sympathetic to the Chinese Communist Party to vote for US Presidential Candidate USPER Joe ((Biden)), despite FBI-SJC-IIR-000003

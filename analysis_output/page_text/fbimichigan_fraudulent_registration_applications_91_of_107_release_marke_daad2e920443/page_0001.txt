@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_fraudulent_registration_applications_91_of_107_release_marke_daad2e920443",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan Fraudulent Registration Applications 91 of 107 RELEASE MARKED.pdf",
+  "source_sha256": "daad2e92044301e2cccff57873b3b10185d5f12051320c407148e18dc22dabd9",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 90.63975155279503
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 grte, _Orricia. Recorp FD-1057 (Rev. 5-8-10) UNCLASSIFIED as. Ty “a: FEDERAL BUREAU OF INVESTIGATION Electronic Communication Title: (U) Database Checks Spreadsheet Date: 05/19/2023 From: DETROIT Case ID #: 56D-DE-3407960- (U) 1Bl REVIEW 1Bl Review Subfile; Synopsis: (U) Database Checks Spreadsheet Enclosure(s): Enclosed are the following items: 1. (U) Database Checks Spreadsheet Details: Database searches were conducted on the 107 voter registration applications from item 1B1 (Box containing voter registration forms. MUPD PR# 94333) in an attempt to identify voter registration applications with potentially fraudulent signatures or listing non-existent individuals. The database searches revealed the following: * Ninety-one individuals returned no results in database checks. * Sixteen individuals were confirmed to be existing people but only four had signatures on file that matched the signatures provided on the associated voter registration application. A spreadsheet summarizing the findings is attached in the 1A portion of the file. +¢ UNCLASSIFIED

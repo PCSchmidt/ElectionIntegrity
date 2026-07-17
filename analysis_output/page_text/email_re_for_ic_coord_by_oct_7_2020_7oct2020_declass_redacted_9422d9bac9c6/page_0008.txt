@@ -1,0 +1,10 @@
+{
+  "document_id": "email_re_for_ic_coord_by_oct_7_2020_7oct2020_declass_redacted_9422d9bac9c6",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_RE For IC coord by Oct 7 2020  7OCT2020 DECLASS REDACTED.pdf",
+  "source_sha256": "9422d9bac9c6eceaf4125708d5b4476dae54841bad38b85af599782e82711180",
+  "page_number": 8,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 81.55
+}
+
+Classification: Classified By: Derived From: Dated: Declassify On: Classified By: Derived From: Dated: Declassify On: Classification: Classification: i Classification: i

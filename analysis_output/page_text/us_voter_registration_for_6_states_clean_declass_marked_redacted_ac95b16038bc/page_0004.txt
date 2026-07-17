@@ -1,0 +1,10 @@
+{
+  "document_id": "us_voter_registration_for_6_states_clean_declass_marked_redacted_ac95b16038bc",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\US Voter Registration  for 6 States - clean - declass marked_Redacted.pdf",
+  "source_sha256": "ac95b16038bc58837c9800bfc37cb3b208bf45f7ae9fdde7da811ed887ecffe1",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 96.0
+}
+
+Page 4

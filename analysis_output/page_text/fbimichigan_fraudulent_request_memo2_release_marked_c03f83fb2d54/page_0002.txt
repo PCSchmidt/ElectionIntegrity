@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_fraudulent_request_memo2_release_marked_c03f83fb2d54",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan Fraudulent Request Memo2 RELEASE MARKED.pdf",
+  "source_sha256": "c03f83fb2d54eae2a0e0d0fe58f7a58a89558f531c58e5136e1f8a934317748a",
+  "page_number": 2,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 93.53924914675768
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 #9 — Unable to locate anyone by that name. Address does not exist. Phone is inactive, but returns to a different name. #10 — Name located. DOB matches. SS# does not match. Address does not match. #11 —- Name located. DOB and SS# match. Address doesn’t exist. Doesn’t appear to have ever lived in Muskegon. #12 — Name located. All information matches except phone number is inactive. #13 — Name located. All information matches except phone number is inactive. #14 — Name located. Deceased, but was alive at the time of registration. All information matched except address. #15 — Unable to locate anyone by that name and DOB. Address does not exist. Phone is inactive. #16 — Unable to locate anyone by that name and DOB. Address does not exist. Phone is inactive. #17 — Name located. DOB matches. Formerly lived at the address. Driver’s license number is wrong. #18 — Name located. DOB, SS#, and address match. Phone number is inactive. #19 — Unable to locate anyone by that name and DOB. Address is a park. Unable to locate phone number. #20 — Name located. DOB, SS#, and address match. Phone number is inactive. Based on these results, it appears as though: - seven of the applications contain completely fabricated information. - four of the applications contain a real name, but DOB, driver’s license, and/or SS# don’t match. - one of the applications contain a real name, but middle name doesn’t match. - one of the applications is for someone who does not appear to have ever lived in Muskegon and has a fabricated address. - seven of the applications contain all correct or nearly all correct information.

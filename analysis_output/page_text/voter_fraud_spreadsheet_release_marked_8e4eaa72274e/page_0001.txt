@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_fraud_spreadsheet_release_marked_8e4eaa72274e",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\Voter Fraud Spreadsheet - RELEASE MARKED.pdf",
+  "source_sha256": "8e4eaa72274e91134cb7c7ff7f0b8f3fea168714675e0e43677b49788ffc71f5",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 92.58
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 From: ©) 20 Sent: Friday, April 28, 2023 11:47 AM Subject: Voter Fraud Spreadsheet --- UNCLASSIFIED Attachments: Person Checks_2023.xlsx RMTFRUserProp: Short-Term Use Email (Transitory) SentinelCaseld: Short-Term Use Email (Transitory) Classification: UNCLASSIFIED Transitory See attached the voter fraud spreadsheet which details all information and outcome of persons search. On other spreadsheet named ‘Stats’, I’ve provided some percentage breakdowns per your request. Let me know if there are any specific stats you’d like in addition to those. Thanks, GR-1/I-21 FBI Detroit — Grand Rapids c: d: Classification: UNCLASSIFIED

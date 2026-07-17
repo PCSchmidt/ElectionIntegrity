@@ -1,0 +1,10 @@
+{
+  "document_id": "voter_registration_database_threats_final_ef8d1d040612",
+  "source_relative_path": "4. Noncitizens on State Voter Rolls\\Voter Registration Database Threats - FINAL.pdf",
+  "source_sha256": "ef8d1d0406127f1618210004db8602d59e2c4afe534de46784932f904ef110c3",
+  "page_number": 11,
+  "extraction_method": "native",
+  "ocr_average_confidence": null
+}
+
+10 REFERENCES 1 https://www.justice.gov/archives/sco/file/1080281/dl?inline 2 https://www.justice.gov/archives/sco/file/1080281/dl?inline 3 RIVERSIDE COUNTY: District attorney claims voters' party affiliations purposely changed without consent - Press Enterprise 4 https://www.justice.gov/archives/sco/file/1080281/dl?inline 5 https://www.justice.gov/archives/sco/file/1080281/dl?inline 6 https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-unitedstates- senate-russian-active-measures/ 7 U.S. intel: Russia compromised seven states prior to 2016 election 8 Voter Databases in Arizona and Illinois Breached, FBI Says 9 GEORGIA VOTING HACK: FBI investigating alleged breach of Georgia elections center at Kennesaw State University - WSB-TV Channel 2 - Atlanta 10 https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF 11 https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-304a 12 Key Findings and Recommendations: Foreign Interference Related to the 2022 US Federal Elections | Homeland Security 13 https://www.dhs.gov/sites/default/files/2023-12/1_b_%20Memo%20DOJ%20and%20DHS%20Approved_508c.pdf 14 Hacking Blind Spot: States Struggle to Vet Coders of Election Software - HSToday

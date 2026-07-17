@@ -1,0 +1,10 @@
+{
+  "document_id": "18_states_memo_clean_declass_mark_redacted_670b20867693",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\18 States Memo - clean - declass mark_Redacted.pdf",
+  "source_sha256": "670b2086769369ee037067abe60a6c5ed04b0ab95a283caddb662fe6f450278a",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 87.38709677419355
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 e voternames, e birth dates, e home mailing address, and e political party affiliation. SEES some data included detailed historical records of detailed voter ballot and polling records and election donation expenses, as well as EN demographic information. nn ee A\2ska, Connecticut, Florida, Maryland, New contained information for over 8 million volts, i a a ia contained the following types of PII: e first, middle, and last name, suffix; e date of birth; e telephone area code, telephone exchange number, and telephone number last four digits; e historical voting records; e home and mailing address; e military affiliation; e political party affiliation, DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

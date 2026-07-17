@@ -1,0 +1,10 @@
+{
+  "document_id": "200m_voter_records_compromised_declass_marked_redacted_9a5bbd6a923e",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\200M Voter Records Compromised - declass marked_Redacted.pdf",
+  "source_sha256": "9a5bbd6a923e4794e03edcd0403498510c55e81f0baf2bd1944c172af7c48cf6",
+  "page_number": 4,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 91.0
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 Named U.S. state 2 7,893,248 records 2017 Includes voter IDs, voter database (5) full names, current addresses, former addresses, birth dates, gender, and citizenship information. Named U.S. state3 | 5,578,302 records (6+ | 2017 voter database GB) Named U.S. state 4 Unknown Unknown Unknown voter database Named U:S. state 5 Unknown Unknown Unknown voter database Named U.S. state 6 Unknown , Unknown Unknown voter database Named U.S. state 7 Unknown Unknown Unknown voter database Named U.S. state 8 Unknown Unknown Unknown voter database Emails from a named 7.42 GB 2016 Includes election-relate U.S. person (5) : d materials GE U.S.-Origin Pil Name Data Volume Area Date of Informatio | Apparent Conte n nts 5 G Page DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

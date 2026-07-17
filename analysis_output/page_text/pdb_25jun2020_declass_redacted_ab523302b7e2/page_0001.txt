@@ -1,0 +1,10 @@
+{
+  "document_id": "pdb_25jun2020_declass_redacted_ab523302b7e2",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\PDB 25JUN2020_DECLASS_REDACTED.pdf",
+  "source_sha256": "ab523302b7e2c77b5d530b1483f668e76581accbb0eb14180ab1d1a7acfd3302",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 87.87128712871286
+}
+
+President’s Daily Briet HURSDAY, 25 JUNE 20: nese Beijing Escalating Efforts To Shape US Policies on China eS | ee ite House official that Beijing had derogatory information on him in an effort to compel him to take a restrained approach to _, eo ca, China's attempt to use blackma against a administration official. reveal the information through social media. We assess that this threat is credible. Lower level Chinese officials have recommended collecting and using “black materials” against perceived anti-China US officials since at least January 2019. This is the most detailed and authoritative recommendation that we have seen. Lecce.

@@ -1,0 +1,10 @@
+{
+  "document_id": "0000001_release_marked_9dea06f5589a",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\0000001 - RELEASE MARKED.pdf",
+  "source_sha256": "9dea06f5589aba90060ab2868b26b332f84bced02abdf37e46ee320e20b297cd",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 88.15151515151516
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 ; - a ts Orricia. Recorp FD-1057 (Rev. 5-8-10) UNCLASSIFIED Ruy FEDERAL BUREAU OF INVESTIGATION Electronic Communication Title: (U) Opening EC Date: 03/16/2021 . a From: DETROIT DE-C3 STATE OF MICHIGAN; CDPO - ELECTION LAWS SENSITIVE INVESTIGATIVE MATTER Synopsis: (U) To open a full investigation and notify the Public Corruption Unit of the case opening. Administrative Notes: (U) Consultation with DOJ Public Integrity Section was completed on March 11,2021. Enclosure(s): Enclosed are the following items: 1. (U) PIN consultation letter 2. (U) LHM Details: UNCLASSIFIED

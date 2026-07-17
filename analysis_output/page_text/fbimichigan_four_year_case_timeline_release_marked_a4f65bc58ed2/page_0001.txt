@@ -1,0 +1,10 @@
+{
+  "document_id": "fbimichigan_four_year_case_timeline_release_marked_a4f65bc58ed2",
+  "source_relative_path": "3. MichiganVoterRegistrationInvestigation\\FBIMichigan Four Year Case Timeline RELEASE MARKED.pdf",
+  "source_sha256": "a4f65bc58ed23b1029ee259a60348ef946deb40108a7298b1217d037d6da9ebd",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 83.61029411764706
+}
+
+APPROVED FOR PUBLIC RELEASE BY COUNSEL TO THE PRESIDENT WARRINGTON on 10 July 2026 56D-DE-3407960 Timeline 10/27/2020 — MSP briefed FBI DE Election Team 2/11/2021 — SAE vailcc for concurrence to open investigation 3/11/2021 — PIN authorized FFI into prepaid cards. Investigation into voter fraud not authorized 3/16/2021 — FFI opened 4/1/2021 — PIN concurred with contacting election and law enforcement authorities to gather more information regarding voter fraud 5/6/2021 — SAP added as case manager with SAP and s\ii 5/27/2021 — Interview CCS 7/1/2021 — Case synopsis provided to ausA 7/7/2021 — SAG met with AUSA Rand a/usa 8/12/2021 — AUSA advised that PIN did not approve further action in the Western District 11/2/2021 — AUSA advised that the Western District portion of the investigation could be closed 11/11/2021 - SAF emailed AUSA with concerns about closing investigation 1/4/2022 — Discussion with PIN 3/10/2022 — PIN advised that previous guidance allows DE to review applications and run database checks 3/14/2022 - SABE copied 20 applications from MPD 3/31/2022 - SABE provided results of database checks on these 20 to PIN and USAO 4/22/2022 - SAB copied 100 applications reportedly not processed by the clerk from MPD 8/1/2022 - SAF provided results of database checks on these 100 to PIN and USAO 11/10/2022 — SA ecain requested PIN guidance 1/31/2023 — PIN arranged call with SAS and Aus 2/2/2023 — PIN authorized full field investigation 2/3/2023 - SAF obtained evidence from MPD 5/2/2023 - SAP provided results of database checks on 107 applications 5/8-6/22/2023 — SAB interviewed eight canvassers and attempted interviews of eight additional canvassers 8/8/2023 - SAE interviewed IT and

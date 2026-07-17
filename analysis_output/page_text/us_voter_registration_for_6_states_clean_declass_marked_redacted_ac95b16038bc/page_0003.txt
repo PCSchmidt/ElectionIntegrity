@@ -1,0 +1,10 @@
+{
+  "document_id": "us_voter_registration_for_6_states_clean_declass_marked_redacted_ac95b16038bc",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\US Voter Registration  for 6 States - clean - declass marked_Redacted.pdf",
+  "source_sha256": "ac95b16038bc58837c9800bfc37cb3b208bf45f7ae9fdde7da811ed887ecffe1",
+  "page_number": 3,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 93.96703296703296
+}
+
+DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026 addresses, and phone numbers - for anything from future CNE operations to election influence operations, although the actual motivations for collecting this information is unknown. | aese P| Election security organizations should be aware that U.S. State voter registration information may be hosted on websites outside the control of government agencies, and that APT actors may harvest voter registration information outside the monitoring of election security organizations. Page 3 DECLASSIFIED BY COUNSEL TO THE PRESIDENT WARRINGTON ON 10 JULY 2026

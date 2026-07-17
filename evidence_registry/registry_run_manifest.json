@@ -1,0 +1,66 @@
+{
+  "created_utc": "2026-07-17T13:43:22.408507+00:00",
+  "input_inventory_sha256": "7ed5429de23b56b4018dc830f73d64cf28f0fe37ca3e698d164c74b04a3a071f",
+  "input_page_index_sha256": "62a2c97eea67bebcfb81a49f5b2898385d88271678f346824b1b39f5720d36a7",
+  "input_ocr_manifest": {
+    "created_utc": "2026-07-17T13:09:32.793982+00:00",
+    "source_root": "C:\\Users\\pchri\\Documents\\ChrisStuff\\WhitehouseDotGov",
+    "document_count": 58,
+    "page_count": 269,
+    "ocr_page_count": 227,
+    "review_page_count": 43,
+    "searchable_ocr_pdfs_enabled": false,
+    "configuration": {
+      "minimum_native_text_characters": 75,
+      "ocr_dpi": 300,
+      "ocr_language": "eng",
+      "low_confidence_threshold": 75.0
+    }
+  },
+  "candidate_passages": 1625,
+  "ocr_review_rows": 43,
+  "claims": 0,
+  "corroboration_queue_rows": 0,
+  "controlled_vocabularies": {
+    "claim_types": [
+      "allegation",
+      "reported_observation",
+      "methodology_statement",
+      "legal_assertion",
+      "statistical_assertion",
+      "document_authenticity_assertion",
+      "conclusion"
+    ],
+    "subject_types": [
+      "event",
+      "dataset",
+      "process",
+      "person_or_organization",
+      "document",
+      "system_or_infrastructure",
+      "other"
+    ],
+    "evidentiary_statuses": [
+      "unverified_source_assertion",
+      "internally_documented",
+      "independently_corroborated",
+      "contradicted",
+      "inconclusive",
+      "not_assessed"
+    ],
+    "review_statuses": [
+      "not_reviewed",
+      "source_page_checked",
+      "needs_correction",
+      "unsuitable_for_quotation"
+    ],
+    "corroboration_statuses": [
+      "not_queued",
+      "queued",
+      "in_progress",
+      "corroborated",
+      "not_corroborated",
+      "inconclusive"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "document_id": "18_states_memo_clean_declass_mark_redacted_670b20867693",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\18 States Memo - clean - declass mark_Redacted.pdf",
+  "source_sha256": "670b2086769369ee037067abe60a6c5ed04b0ab95a283caddb662fe6f450278a",
+  "page_number": 1,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 71.96875
+}
+
+SENSITIVE GOVERNMENT AGENCY RRs Sed | a Te ee eee BRE Analysis on US. Voter Registration Information EM from 18 States, Plans to Conduct U.S. Person Matching and Public Opinion Analysis; ia

@@ -1,0 +1,10 @@
+{
+  "document_id": "email_nsa_massagedpdb_23nov2020_declass_redact_3b4950eaeef1",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_NSA.MassagedPDB_23NOV2020_DECLASS_REDACT.pdf",
+  "source_sha256": "3b4950eaeef104c15054ef1367abd9ac2d67438ed1e0ff286a1621db9d78965b",
+  "page_number": 5,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 85.33333333333333
+}
+
+/! Classified By: Derived From: Dated: Declassify On: Classification: as Classified By: Derived From: Dated: Declassify On: Classified By: Derived From: Dated: Declassify On: Classified By: Derived From: Dated: Declassify On: PF National Intelligence Officer - Cyber ODNI/National Intelligence Council Secure: 5

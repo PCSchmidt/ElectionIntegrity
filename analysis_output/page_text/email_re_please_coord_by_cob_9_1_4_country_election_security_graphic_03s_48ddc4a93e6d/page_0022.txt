@@ -1,0 +1,10 @@
+{
+  "document_id": "email_re_please_coord_by_cob_9_1_4_country_election_security_graphic_03s_48ddc4a93e6d",
+  "source_relative_path": "2. ChinaAcquisitionExploitationAmericanVoterData\\EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf",
+  "source_sha256": "48ddc4a93e6d4283be828cb77ea7f543a47e3cee664bdcbbbc8663da1b5b816d",
+  "page_number": 22,
+  "extraction_method": "ocr",
+  "ocr_average_confidence": 93.23728813559322
+}
+
+Subject: Please coord by COB 9/1: 4 country election security graphic Classified By: Derived From: Declassify On: IC colleagues, Please see attached for the latest edition of our graphic, “Election Security: Status of Adversary Efforts TO Influence the 2020 US Presidential Election, as of 25 August.” This edition mentions Russia, China, Iran, and a Please send comments to the cc line by COB Tuesday, 1 September. The graphic contains redacted [ij and J material for Russia, and J material for China. We've included the serial numbers for the redacted reports so you can verify your access. If you have access and would like to coordinate on the ful! text, please contact the following POCs for a full version:
